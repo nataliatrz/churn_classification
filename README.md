@@ -18,3 +18,5 @@ Analisando um dataset contendo as colunas abaixo, a proposta é classificar os c
 
 O dataset train.csv foi usado para análise e treino do modelo. O dataset test.csv, utilizado para teste do modelo. 
 Posteriormente, será feita a análise dos perfis classificados.
+
+Report.html contém análises provenientes da biblioteca ydata_profiling - ProfileReport.
